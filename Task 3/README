@@ -15,5 +15,5 @@ Part 2
 Part 3
 - Add extra class as dog.cpp and doc.hpp, Inheriting animal class
 - Create doc object in main.cpp and call a method from animal or dog classes.
-- Test and push the latest to public git
+- Test and push the latest to public git.
 - Rebuild the Yocto project and verify the updates and applied to the latest image.
