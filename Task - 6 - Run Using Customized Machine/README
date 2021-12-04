@@ -1,0 +1,3 @@
+Create a new "machine" for developments in the Yocto project.
+
+Add this machine instead, qemux86-64 machine in local.conf file. Ex qemuyourname
