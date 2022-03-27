@@ -1,6 +1,0 @@
-Continuation of Task 4.
-Interchange between 3 configurations in minimum change to the source base
-1 - 1st app with DEBUG_1 and HelloWorld app (The first app you build)
-2 - 2nd app with DEBUG_1 and HelloWorld app (The first app you build)
-3 - 3rd app with DEBUG_1 and HelloWorld app (The first app you build)
-Hint: Package Groups
